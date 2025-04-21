@@ -2,7 +2,17 @@
 
 A fin ray-inspired tactile sensing system for robotic manipulation that integrates a compliant TPU gripper with a tactile sensor array.
 
-![Fin Ray Tactile Sensor](https://github.com/username/visuo-tactile-sensing/raw/main/images/fin-ray-sensor.jpg)
+# Visuo-Tactile Sensing
+
+A fin ray-inspired tactile sensing system for robotic manipulation that integrates a compliant TPU gripper with a tactile sensor array.
+
+<p align="center">
+  <img src="finray.png" alt="Fin Ray Tactile Sensor" width="600"/>
+</p>
+
+<p align="center">
+  <img src="slip_detect.png" alt="Slip Detection System" width="600"/>
+</p>
 
 ## Project Overview
 
